@@ -1,5 +1,5 @@
 # concheck CLI
-`concheck` is a Python CLI that checks url availability by sending a HEAD request to the url.
+`concheck` is a Python CLI that checks url connectivity by sending a HEAD request to the url.
 
 ## Using `concheck`
 `concheck` is a CLI and run from the command line.
